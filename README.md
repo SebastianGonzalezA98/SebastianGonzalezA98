@@ -1,3 +1,4 @@
+## Currently bussy mastering deep learning and machine learning techniques to upload some great repositories!
 - 👋 Hi, I’m Sebastian Gonzalez Arango, a 24 year old Colombian who recently graduated from EAFIT University currently finishing a mayor in Finances with a minor in Data Science and Analytics. I'm extremely passionate for artificial intelligence, I love learning about new technological trends, playing the piano, reading, and programming to solve problems.
 - 👀 I’m interested in applying my knowledge on DL/AI to overcome a variety of business problems and applying technological and data oriented skills to obtain business insights.
 - 🌱 I’m currently learning about data science, machine learning, deep learning, and all the aspects of being a developer that come with these.
